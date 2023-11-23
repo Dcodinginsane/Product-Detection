@@ -57,7 +57,7 @@ For more detail, please browse the [configuration](configs/SKU_fusion_bifpn_x101
 
 This repository is currently maintained by Tianze Rong ([@SteelBeamR](https://github.com/SteelBeamR)), Hongxiang Cai ([@hxcai](http://github.com/hxcai)), Yichao Xiong ([@mileistone](https://github.com/mileistone)).
 
-## Credits
 
-The whole project is based on  [mmcv v0.5.9](https://github.com/open-mmlab/mmcv/tree/v0.5.9) and [mmdetection v1.0rc1](https://github.com/open-mmlab/mmdetection/tree/v1.0rc1) via [open-mmlab](https://github.com/open-mmlab).
+
+
 
